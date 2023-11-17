@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aadityan / Site Title"
+title                    : "Aadityan's Personal Website"
 title_separator          : "-"
 name                     : &name "Aadityan R Kurungat"
 description              : &description "Personal Website - Data Science student at UniFAU"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aadityan R Kurungat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Final Year Data Science Student at UniFAU, Germany"
   location         : "Erlangen, Bayern"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "aadityanr"
   google_plus      :
   keybase          :
   instagram        :
